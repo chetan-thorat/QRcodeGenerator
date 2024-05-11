@@ -28,7 +28,7 @@ This project is a simple web application for generating QR codes from URLs. It a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/QRCodeGenerator.git
+    git clone https://github.com/chetan-thorat/QRcodeGenerator
     ```
 
 2. Navigate to the project directory:
