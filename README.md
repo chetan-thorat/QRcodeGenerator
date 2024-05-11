@@ -1,4 +1,60 @@
-# QRcodeGenerator
+
+
+# QR Code Generator
+
+## Overview
+
+This project is a simple web application for generating QR codes from URLs. It allows users to input a URL, and it generates a QR code image corresponding to that URL. The generated QR code can then be scanned by devices to access the URL.
+
+## Features
+
+- Input field for entering the URL
+- Generate QR code button
+- Display of generated QR code image
+- Responsive design for use on various devices
+
+## Key Skills
+
+- **Python**
+- **Flask**
+- **HTML**
+- **CSS**
+- **Jinja2 Templating**
+- **QR Code Generation (using qrcode library)**
+- **Responsive Web Design**
+
+## Usage
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/QRCodeGenerator.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd QRCodeGenerator
+    ```
+
+3. Install dependencies (assuming you have Python and pip installed):
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Run the Flask application:
+
+    ```bash
+    python app.py
+    ```
+
+5. Open a web browser and go to `http://localhost:5000` to access the application.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 QR codes have become increasingly prevalent in modern society, serving as a convenient method for quickly accessing information using smartphones or other devices equipped with a camera. This project provides a simple yet effective way to generate QR codes for various purposes, such as linking to websites, sharing contact information, or providing access to digital content.
 
